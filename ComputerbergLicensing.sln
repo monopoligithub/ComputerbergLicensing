@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30309.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "ComputerbergLicensing", "ComputerbergLicensing\ComputerbergLicensing.pyproj", "{57454B86-AA2D-4C63-BB5E-B4362B7BD184}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{57454B86-AA2D-4C63-BB5E-B4362B7BD184}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57454B86-AA2D-4C63-BB5E-B4362B7BD184}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57454B86-AA2D-4C63-BB5E-B4362B7BD184}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57454B86-AA2D-4C63-BB5E-B4362B7BD184}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0ED66418-07E8-4825-BAB6-4D056462BAA2}
+	EndGlobalSection
+EndGlobal
